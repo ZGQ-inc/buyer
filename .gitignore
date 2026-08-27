@@ -1,0 +1,18 @@
+# 凭据
+auth.json
+pdd_profile/
+
+# 输出数据
+output/*
+!output/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
